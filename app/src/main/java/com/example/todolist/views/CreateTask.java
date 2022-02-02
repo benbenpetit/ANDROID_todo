@@ -1,4 +1,4 @@
-package com.example.todolist;
+package com.example.todolist.views;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -11,6 +11,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
+
+import com.example.todolist.R;
 
 import java.util.ArrayList;
 

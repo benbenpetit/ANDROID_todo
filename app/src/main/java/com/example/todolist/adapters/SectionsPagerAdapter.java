@@ -1,4 +1,4 @@
-package com.example.todolist.ui.main;
+package com.example.todolist.adapters;
 
 import android.content.Context;
 
@@ -9,9 +9,9 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
-import com.example.todolist.Calendar;
-import com.example.todolist.CreateTask;
-import com.example.todolist.List;
+import com.example.todolist.views.Calendar;
+import com.example.todolist.views.CreateTask;
+import com.example.todolist.views.List;
 import com.example.todolist.R;
 
 /**
